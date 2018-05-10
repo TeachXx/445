@@ -1,0 +1,21 @@
+package İlkProgram;
+
+public class İlkProgram {
+  
+	public static void main(String[] args) {
+	
+		int ben = 17;
+		double pi = 3.14;
+		int baba = 52;
+		int anne = 48;
+		int deli = 13;	
+		int Aile = 4;
+		System.out.println("pi : "+ pi);
+        System.out.println("Benim yasım : " +ben );
+        System.out.println("Babamın yası : " +baba );
+        System.out.println("Annemin yası : " +anne );
+        System.out.println("Delinin yası : " +deli );
+        System.out.println("Ailedeki insan sayısı : " + Aile);
+	}
+
+}	
